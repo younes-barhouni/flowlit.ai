@@ -1,0 +1,11 @@
+{
+  "name": "flowlit.ai",
+  "private": true,
+  "version": "0.0.0",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "build": "echo \"Build step not configured\"",
+    "lint": "echo \"Lint step not configured\"",
+    "test": "echo \"No tests configured\""
+  }
+}
